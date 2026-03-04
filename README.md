@@ -47,47 +47,38 @@ By focusing on simplicity, scalability, and developer experience, Radix helps te
 
 ## 📦 Repository Index
 
-Below is the full overview of Radix open‑source projects.  
+### Core Platform
+- [Radix Operator](https://github.com/equinor/radix-operator) — The core Kubernetes operator that manages Radix workloads, deployments, and platform resources
+- [Radix API](https://github.com/equinor/radix-api) — REST API exposing platform capabilities to users, services, and the web console
+- [Radix Web Console](https://github.com/equinor/radix-web-console) — Web-based GUI for creating, managing, and monitoring Radix applications
+- [Radix CLI](https://github.com/equinor/radix-cli) — Command-line interface for interacting with the Radix platform
+- [Radix Platform](https://github.com/equinor/radix-platform) — Base infrastructure scripts, Terraform/HCL configs, and platform setup
+- [Radix Common](https://github.com/equinor/radix-common) — Shared Go library with common logic used across Radix system applications
+- [Radix Log API](https://github.com/equinor/radix-log-api) — API for accessing historical logs for Radix applications
 
-***
+### CI/CD
+- [Radix Image Builder](https://github.com/equinor/radix-image-builder) — Container image builder for Radix application pipelines
+- [Radix BuildKit Builder](https://github.com/equinor/radix-buildkit-builder) — BuildKit-based image builder for improved build performance
+- [Radix GitHub Webhook](https://github.com/equinor/radix-github-webhook) — Webhook handler that triggers Radix pipelines from GitHub push events
 
-### 🧩 Core Repositories
+### Security
+- [Radix OAuth Guard](https://github.com/equinor/radix-oauth-guard) — Forward auth service to validate, authenticate, and authorize JWT tokens
+- [Radix Vulnerability Scanner](https://github.com/equinor/radix-vulnerability-scanner) — Scans container images in RadixDeployments for security vulnerabilities
+- [Radix Vulnerability Scanner API](https://github.com/equinor/radix-vulnerability-scanner-api) — API for querying and serving vulnerability scan results
 
-| Repository       | Description                                                             |
-| ---------------- | ----------------------------------------------------------------------- |
-| `radix-platform` | Core logic, platform components, and main functionality powering Radix. |
-| `radix-operator` | Kubernetes operator managing Radix workloads and deployments.           |
-| `radix-api`      | APIs exposing platform capabilities to users and services.              |
+### Infrastructure & Operations
+- [Radix Flux](https://github.com/equinor/radix-flux) — GitOps configuration for Radix clusters using Flux CD
+- [Radix Ingress Default Backend](https://github.com/equinor/radix-ingress-default-backend) — Default backend for ingress-nginx in Radix clusters
+- [Radix NetworkPolicy Canary](https://github.com/equinor/radix-networkpolicy-canary) — Canary service for verifying network policy enforcement
+- [Radix CI/CD Canary](https://github.com/equinor/radix-cicd-canary) — Automated end-to-end testing of the Radix platform inside clusters
+- [Radix Prometheus Proxy](https://github.com/equinor/radix-prometheus-proxy) — Exports selected Prometheus query results for monitoring
 
-***
+### Utilities
+- [Radix ACR Cleanup](https://github.com/equinor/radix-acr-cleanup) — Cleanup service for removing unused container images from Azure Container Registry
+- [Radix Cluster Cleanup](https://github.com/equinor/radix-cluster-cleanup) — CLI for automated cleanup of applications in Radix clusters (playground)
+- [Radix Cost Allocation](https://github.com/equinor/radix-cost-allocation) — Exports resource usage and cost data from Prometheus to an external SQL database
+- [Radix Cost Allocation API](https://github.com/equinor/radix-cost-allocation-api) — API for querying application cost allocation data
 
-### 🔧 Tools & Utilities
-
-| Repository         | Description                                            |
-| ------------------ | ------------------------------------------------------ |
-| `radix-cli`        | Command-line interface for interacting with Radix.     |
-| `radix-terraform`  | IaC modules for provisioning Radix infrastructure.     |
-| `radix-monitoring` | Dashboards, Grafana configs, and monitoring utilities. |
-
-***
-
-### 🔗 Integrations
-
-| Repository             | Description                                       |
-| ---------------------- | ------------------------------------------------- |
-| `radix-github-actions` | CI/CD workflows for GitHub-based Radix projects.  |
-| `radix-azure-devops`   | Pipelines and tasks for Azure DevOps integration. |
-
-***
-
-### 🧪 Examples & Templates
-
-| Repository               | Description                                           |
-| ------------------------ | ----------------------------------------------------- |
-| `radix-sample-app`       | A minimal example app showing how to deploy on Radix. |
-| `radix-demo-environment` | End-to-end demo setup for showcasing Radix features.  |
-
-***
 
 ## 🤝 How to Contribute
 
