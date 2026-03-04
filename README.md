@@ -1,4 +1,4 @@
-![radix](./images/radix.png)
+![radix](./images/radix-2x3.jpg)
 # 🌐 Radix — Open Source Portal
 
 *Your single entry point into the Radix open‑source ecosystem 🚀*
