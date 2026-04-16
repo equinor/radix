@@ -1,0 +1,549 @@
+pe-PCSTEST1-PTMoVJKT_pls-d4b78f6:
+  subresourcename: privatelinkservice
+  resource_id: /subscriptions/343069e3-ceaa-4256-bdc8-49fa3646c1c4/resourceGroups/rg-pcs4-tessel-non-prod/providers/Microsoft.Network/privateLinkServices/PCSTEST1-PTMoVJKT_pls
+pe-S227FADD01P-c94200e:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/98775232-d6d2-45a2-a71e-48aedb68a29e/resourceGroups/S227-NOE-FAD-PRD/providers/Microsoft.Sql/servers/S227FADD01P
+pe-S324-keyvault-24b61ac:
+  subresourcename: vault
+  resource_id: /subscriptions/dbeeef0b-dffa-4f79-b395-3b6f46daea24/resourceGroups/Integrations/providers/Microsoft.KeyVault/vaults/S324-keyvault
+pe-S540-SAPo-dev-kv-1d2f121:
+  subresourcename: vault
+  resource_id: /subscriptions/03ca5328-3224-4574-b3dc-f4ffb89d2557/resourceGroups/S540-SAPo-dev/providers/Microsoft.KeyVault/vaults/S540-SAPo-dev-kv
+pe-aas-keycloak-01-f8b316a:
+  subresourcename: "postgresqlServer"
+  resource_id: /subscriptions/4d0b4123-3a43-4e46-a912-fe34b06db717/resourceGroups/S485-aas-prod/providers/Microsoft.DBforPostgreSQL/flexibleServers/aas-keycloak-01
+pe-ahms-postgres-server-1379bf8:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/2cb016ae-0577-48dd-8b53-e58f654fe6ab/resourceGroups/rg-ahms-prod/providers/Microsoft.DBforPostgreSQL/flexibleServers/ahms-postgres-server
+pe-ahms-postgres-server-bf3de13:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/2cb016ae-0577-48dd-8b53-e58f654fe6ab/resourceGroups/rg-vapr-test/providers/Microsoft.DBforPostgreSQL/flexibleServers/ahms-postgres-server
+pe-ahms-postgres-server-dev-a54931b:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/2cb016ae-0577-48dd-8b53-e58f654fe6ab/resourceGroups/rg-ahms-dev/providers/Microsoft.DBforPostgreSQL/flexibleServers/ahms-postgres-server-dev
+pe-ahms-postgres-server-test-a20eade:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/2cb016ae-0577-48dd-8b53-e58f654fe6ab/resourceGroups/rg-ahms-test/providers/Microsoft.DBforPostgreSQL/flexibleServers/ahms-postgres-server-test
+pe-autorepgencosmos-5471a61:
+  subresourcename: Sql
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator/providers/Microsoft.DocumentDB/databaseAccounts/autorepgencosmos
+pe-autorepgencosmosdev-5d4a68d:
+  subresourcename: Sql
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-DEV/providers/Microsoft.DocumentDB/databaseAccounts/autorepgencosmosdev
+pe-autorepgencosmostest-11b69c0:
+  subresourcename: Sql
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-TEST/providers/Microsoft.DocumentDB/databaseAccounts/autorepgencosmostest
+pe-autorepgencosmostraining-bca47b5:
+  subresourcename: Sql
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-TRAINING/providers/Microsoft.DocumentDB/databaseAccounts/autorepgencosmostraining
+pe-autorepgenredis-6e90c2e:
+  subresourcename: redisCache
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator/providers/Microsoft.Cache/redis/autorepgenredis
+pe-autorepgenredisdev-3ec9f1a:
+  subresourcename: redisCache
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-DEV/providers/Microsoft.Cache/redis/autorepgenredisdev
+pe-autorepgenredistest-de2a3d8:
+  subresourcename: redisCache
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-TEST/providers/Microsoft.Cache/redis/autorepgenredistest
+pe-autorepgenredistraining-3441194:
+  subresourcename: redisCache
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-TRAINING/providers/Microsoft.Cache/redis/autorepgenredistraining
+pe-autorepgenstorage-cd870cc:
+  subresourcename: blob
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator/providers/Microsoft.Storage/storageAccounts/autorepgenstorage
+pe-autorepgenstoragedev-391a465:
+  subresourcename: blob
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-DEV/providers/Microsoft.Storage/storageAccounts/autorepgenstoragedev
+pe-autorepgenstoragetest-49ba200:
+  subresourcename: blob
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-TEST/providers/Microsoft.Storage/storageAccounts/autorepgenstoragetest
+pe-autorepgenstoragetrainin-d9dc68b:
+  subresourcename: blob
+  resource_id: /subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/AutomaticReportGenerator-TRAINING/providers/Microsoft.Storage/storageAccounts/autorepgenstoragetrainin
+pe-cementlog-database-server-clever-possum:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/d8d0e2bc-9c94-4141-b9a1-7b8ed309f7e1/resourceGroups/cement-log-database-prod/providers/Microsoft.DBforPostgreSQL/flexibleServers/cementlog-database-server-clever-possum"
+pe-cementlog-database-server-heroic-shark:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/d8d0e2bc-9c94-4141-b9a1-7b8ed309f7e1/resourceGroups/cement-log-database-dev/providers/Microsoft.DBforPostgreSQL/flexibleServers/cementlog-database-server-heroic-shark"
+pe-chemcomprod-45ecec3:
+  subresourcename: blob
+  resource_id: /subscriptions/38ae4a0b-0960-43a3-abe9-973a505bca88/resourceGroups/rg-chemcom-dev/providers/Microsoft.Storage/storageAccounts/chemcomprod
+pe-chemdecdev-ef85777:
+  subresourcename: blob
+  resource_id: /subscriptions/38ae4a0b-0960-43a3-abe9-973a505bca88/resourceGroups/rg-chemcom-dev/providers/Microsoft.Storage/storageAccounts/chemdecdev
+pe-coating-tool-dev-7efbaf5:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/coating-tool-dev/providers/Microsoft.Sql/servers/coating-tool-dev
+pe-coating-tool-prod-a8d3bcf:
+  subresourcename: vault
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/coating-tool-prod/providers/Microsoft.KeyVault/vaults/coating-tool-prod
+pe-coating-tool-test-0a0c2cf:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/coating-tool-test/providers/Microsoft.Sql/servers/coating-tool-test
+pe-coating-tool-test-8823f23:
+  subresourcename: vault
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/coating-tool-test/providers/Microsoft.KeyVault/vaults/coating-tool-test
+pe-coatingtooldev-9e552e5:
+  subresourcename: blob
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/coating-tool-dev/providers/Microsoft.Storage/storageAccounts/coatingtooldev
+pe-coatingtoolprod-d239484:
+  subresourcename: blob
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/coating-tool-prod/providers/Microsoft.Storage/storageAccounts/coatingtoolprod
+pe-coatingtooltest-7b430ea:
+  subresourcename: blob
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/coating-tool-test/providers/Microsoft.Storage/storageAccounts/coatingtooltest
+pe-cosmos-diial-main-prod-eun-f4468b2:
+  subresourcename: Gremlin
+  resource_id: /subscriptions/e39174ad-ec69-4c60-9217-966104fba51a/resourceGroups/rg-diial-main-prod-eun/providers/Microsoft.DocumentDB/databaseAccounts/cosmos-diial-main-prod-eun
+pe-db-fmu-hub-dev-swc-48edac8:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-dev/providers/Microsoft.DBforPostgreSQL/flexibleServers/db-fmu-hub-dev-swc
+pe-db-fmu-hub-preview-swc-3594263:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-preview/providers/Microsoft.DBforPostgreSQL/flexibleServers/db-fmu-hub-preview-swc
+pe-db-fmu-hub-prod-swc-4e79cdd:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-prod/providers/Microsoft.DBforPostgreSQL/flexibleServers/db-fmu-hub-prod-swc
+pe-db-fmu-hub-test-swc-2904313:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-test/providers/Microsoft.DBforPostgreSQL/flexibleServers/db-fmu-hub-test-swc
+pe-dipvp-auth-dev:
+  subresourcename: "redisCache"
+  resource_id: "/subscriptions/8a37d771-2394-443d-bc0a-5ee4e7b6affa/resourceGroups/DIPVP_dev/providers/Microsoft.Cache/redis/dipvp-auth-dev"
+pe-dipvp-auth-prod:
+  subresourcename: "redisCache"
+  resource_id: "/subscriptions/8a37d771-2394-443d-bc0a-5ee4e7b6affa/resourceGroups/DIPVP_prod/providers/Microsoft.Cache/redis/dipvp-auth-prod"
+pe-dipvp-auth-test:
+  subresourcename: "redisCache"
+  resource_id: "/subscriptions/8a37d771-2394-443d-bc0a-5ee4e7b6affa/resourceGroups/DIPVP_test/providers/Microsoft.Cache/redis/dipvp-auth-test"
+pe-ecalc-cache-for-redis-a449db0:
+  subresourcename: redisCache
+  resource_id: /subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-test-rg/providers/Microsoft.Cache/redis/ecalc-cache-for-redis
+pe-ecalc-preprod2-cache-for-redis-1fd5371:
+  subresourcename: redisCache
+  resource_id: /subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-preprod2-rg/providers/Microsoft.Cache/redis/ecalc-preprod2-cache-for-redis
+pe-ecalc-preprod2-db-flexible:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-preprod2-rg/providers/Microsoft.DBforPostgreSQL/flexibleServers/ecalc-preprod2-db-flexible"
+pe-ecalc-prod-cache-for-redis-0802c24:
+  subresourcename: redisCache
+  resource_id: /subscriptions/5be1e8ce-eec6-41ae-84b3-8ef1432673ed/resourceGroups/ecalc-prod-rg/providers/Microsoft.Cache/redis/ecalc-prod-cache-for-redis
+pe-ecalc-prod-db-flexible-2:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/5be1e8ce-eec6-41ae-84b3-8ef1432673ed/resourceGroups/ecalc-prod-rg/providers/Microsoft.DBforPostgreSQL/flexibleServers/ecalc-prod-db-flexible-2
+pe-ecalc-qa-cache-for-redis-475ebe6:
+  subresourcename: redisCache
+  resource_id: /subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-qa-rg/providers/Microsoft.Cache/redis/ecalc-qa-cache-for-redis
+pe-ecalc-qa-db-flexible:
+  subresourcename: postgresqlServer
+  resource_id: "/subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-qa-rg/providers/Microsoft.DBforPostgreSQL/flexibleservers/ecalc-qa-db-flexible"
+pe-ecalc-test-cache-for-redis-684f176:
+  subresourcename: redisCache
+  resource_id: /subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-test-rg/providers/Microsoft.Cache/redis/ecalc-test-cache-for-redis
+pe-ecalc-test-db-flexible:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-test-rg/providers/Microsoft.DBforPostgreSQL/flexibleservers/ecalc-test-db-flexible"
+pe-ecalcteststorageaccount-blob:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/0c3b358f-a1a4-49f3-a571-638904e6da7b/resourceGroups/ecalc-test-rg/providers/Microsoft.Storage/storageAccounts/ecalcteststorageaccount"
+pe-ecmgl0560-vault-dev:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-GL0560-DEV/providers/Microsoft.KeyVault/vaults/GL0560KV-dev"
+pe-ecmgl0560-vault-prod:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-GL0560-PROD/providers/Microsoft.KeyVault/vaults/GL0560KV-prod"
+pe-ecmgl0560-vault-test:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-GL0560-TEST/providers/Microsoft.KeyVault/vaults/GL0560KV-test"
+pe-ecmisoplanning-blob-prod:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-ISO-WP-PROD/providers/Microsoft.Storage/storageAccounts/ecmisowpsaprod"
+pe-ecmisoplanning-blob-test:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-ISO-WP-TEST/providers/Microsoft.Storage/storageAccounts/ecmisowpsatest"
+pe-ecmisoplanning-sql-prod:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-ISO-WP-PROD/providers/Microsoft.Sql/servers/isoplanninglibsqlserver-prod"
+pe-ecmisoplanning-vault-prod:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-ISO-WP-PROD/providers/Microsoft.KeyVault/vaults/ISOPlanningKV-prod"
+pe-ecmisoplanning-vault-test:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-ISO-WP-TEST/providers/Microsoft.KeyVault/vaults/ISOPlanningKV-Test"
+pe-ecmisowpsadev-ed0846c:
+  subresourcename: blob
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-ISO-WP-DEV/providers/Microsoft.Storage/storageAccounts/ecmisowpsadev
+pe-fface-ui-kv-a83bc20:
+  subresourcename: vault
+  resource_id: /subscriptions/bbf7899c-50c7-4618-9317-51ededca8f1f/resourceGroups/fface-ui-secrets/providers/Microsoft.KeyVault/vaults/fface-ui-kv
+pe-fmuhub-postgresql-dev:
+  subresourcename: "coordinator"
+  resource_id: "/subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-dev/providers/Microsoft.DBforPostgreSQL/serverGroupsv2/db-fmu-hub-dev"
+pe-fmuhub-postgresql-preview:
+  subresourcename: "coordinator"
+  resource_id: "/subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-preview/providers/Microsoft.DBforPostgreSQL/serverGroupsv2/db-fmu-hub-preview"
+pe-fmuhub-postgresql-prod:
+  subresourcename: "coordinator"
+  resource_id: "/subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-prod/providers/Microsoft.DBforPostgreSQL/serverGroupsv2/db-fmu-hub-prod"
+pe-fmuhub-postgresql-test:
+  subresourcename: "coordinator"
+  resource_id: "/subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-test/providers/Microsoft.DBforPostgreSQL/serverGroupsv2/db-fmu-hub-test"
+pe-fos-am-integrations-test-0a84ea8:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/dbeeef0b-dffa-4f79-b395-3b6f46daea24/resourceGroups/Integrations/providers/Microsoft.Sql/servers/fos-am-integrations-test
+pe-geodetic-auth-dev:
+  subresourcename: "redisCache"
+  resource_id: "/subscriptions/35dad0ed-b547-42d1-912a-1d6d75484dfc/resourceGroups/GeodeticEngine/providers/Microsoft.Cache/redis/geodetic-auth-dev"
+pe-geodetic-auth-prod:
+  subresourcename: "redisCache"
+  resource_id: "/subscriptions/35dad0ed-b547-42d1-912a-1d6d75484dfc/resourceGroups/GeodeticEngine/providers/Microsoft.Cache/redis/geodetic-auth-prod"
+pe-geodetic-auth-test:
+  subresourcename: "redisCache"
+  resource_id: "/subscriptions/35dad0ed-b547-42d1-912a-1d6d75484dfc/resourceGroups/GeodeticEngine/providers/Microsoft.Cache/redis/geodetic-auth-test"
+pe-geodetic-job-schedule:
+  subresourcename: "redisCache"
+  resource_id: "/subscriptions/35dad0ed-b547-42d1-912a-1d6d75484dfc/resourceGroups/GeodeticEngine/providers/Microsoft.Cache/redis/geodetic-job-schedule"
+pe-gl0560sqlserver-dev-f492fb1:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-GL0560-DEV/providers/Microsoft.Sql/servers/gl0560sqlserver-dev
+pe-gl0560sqlserver-prod-ffc5fc8:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-GL0560-PROD/providers/Microsoft.Sql/servers/gl0560sqlserver-prod
+pe-gl0560sqlserver-test-9b39482:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-GL0560-TEST/providers/Microsoft.Sql/servers/gl0560sqlserver-test
+pe-hearing-api-prod:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/2ad1b087-ffb8-4cf3-bcc2-8caeebfcd3f3/resourceGroups/hearing-prod/providers/Microsoft.KeyVault/vaults/hearing-api-prod"
+pe-hearing-api-test:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/2ad1b087-ffb8-4cf3-bcc2-8caeebfcd3f3/resourceGroups/hearing-test/providers/Microsoft.KeyVault/vaults/hearing-api-test"
+pe-hearing-prod-sless-norway:
+  subresourcename: "Sql"
+  resource_id: "/subscriptions/2ad1b087-ffb8-4cf3-bcc2-8caeebfcd3f3/resourceGroups/hearing-prod/providers/Microsoft.DocumentDb/databaseAccounts/hearing-prod-sless-norway"
+pe-hearing-test-sless:
+  subresourcename: "Sql"
+  resource_id: "/subscriptions/2ad1b087-ffb8-4cf3-bcc2-8caeebfcd3f3/resourceGroups/hearing-test/providers/Microsoft.DocumentDB/databaseAccounts/hearing-test-sless"
+pe-ifrstorageprod-d463cae:
+  subresourcename: blob
+  resource_id: /subscriptions/df45ba1b-e7f9-40c3-8c6e-fadb13600fe8/resourcegroups/prod/providers/Microsoft.Storage/storageAccounts/ifrstorageprod
+pe-iiot-sql-dev-fa91e23:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/0af64545-038a-4bc2-ac39-b95643a6c9e3/resourceGroups/iiot-rg-dev/providers/Microsoft.Sql/servers/iiot-sql-dev
+pe-iiot-sql-prod-60b5da3:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/0af64545-038a-4bc2-ac39-b95643a6c9e3/resourceGroups/iiot-rg-prod/providers/Microsoft.Sql/servers/iiot-sql-prod
+pe-iiot-sql-qa-27c7b35:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/0af64545-038a-4bc2-ac39-b95643a6c9e3/resourceGroups/iiot-rg-qa/providers/Microsoft.Sql/servers/iiot-sql-qa
+pe-isoplanningkv-dev:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/ECM-ISO-WP-DEV/providers/Microsoft.KeyVault/vaults/ISOPlanningKV-Dev"
+pe-oai-lpllm-main-dev-sec-4b6699e:
+  subresourcename: account
+  resource_id: /subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-lpllm-main-dev-eun/providers/Microsoft.CognitiveServices/accounts/oai-lpllm-main-dev-sec
+pe-op-controller-postgres-server-prd-ccc5f7f:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/e12cfca4-6016-4625-b9cb-7d263c0eeabb/resourceGroups/op-rg-storage-prd/providers/Microsoft.DBforPostgreSQL/flexibleServers/op-controller-postgres-server-prd
+pe-pepmradixdevst-646cf3c:
+  subresourcename: blob
+  resource_id: /subscriptions/a8371cf3-316b-41bc-b073-c66bf8896a63/resourceGroups/S542-dev/providers/Microsoft.Storage/storageAccounts/pepmradixdevst
+pe-pepmradixdevst-7e2090c:
+  subresourcename: dfs
+  resource_id: /subscriptions/a8371cf3-316b-41bc-b073-c66bf8896a63/resourceGroups/S542-dev/providers/Microsoft.Storage/storageAccounts/pepmradixdevst
+pe-pepmradixprodst-28a9825:
+  subresourcename: dfs
+  resource_id: /subscriptions/a8371cf3-316b-41bc-b073-c66bf8896a63/resourceGroups/S542-prod/providers/Microsoft.Storage/storageAccounts/pepmradixprodst
+pe-pepmradixprodst-dc61ad3:
+  subresourcename: blob
+  resource_id: /subscriptions/a8371cf3-316b-41bc-b073-c66bf8896a63/resourceGroups/S542-prod/providers/Microsoft.Storage/storageAccounts/pepmradixprodst
+pe-pepmradixtestst-13d47cb:
+  subresourcename: dfs
+  resource_id: /subscriptions/a8371cf3-316b-41bc-b073-c66bf8896a63/resourceGroups/S542-test/providers/Microsoft.Storage/storageAccounts/pepmradixtestst
+pe-pepmradixtestst-160dd0d:
+  subresourcename: blob
+  resource_id: /subscriptions/a8371cf3-316b-41bc-b073-c66bf8896a63/resourceGroups/S542-test/providers/Microsoft.Storage/storageAccounts/pepmradixtestst
+pe-pg-fmu-hub-preview-999c4cf:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/af7703f3-aa04-40dd-aa31-f8de83924dc4/resourceGroups/rg-fmu-hub-preview/providers/Microsoft.DBforPostgreSQL/flexibleServers/pg-fmu-hub-preview
+pe-pg-gis-deepnet-data-248034e:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/e14bac91-6f55-4e44-8097-59b1bf1fd4ae/resourceGroups/rg-deepnet-data-dev/providers/Microsoft.DBforPostgreSQL/flexibleServers/pg-gis-deepnet-data
+pe-pidsqlserverprod-7449669:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/26aefc3c-a9af-4114-afa1-05603a4a468c/resourceGroups/SubExplPIDRGProd/providers/Microsoft.Sql/servers/pidsqlserverprod
+pe-pl-sumo-dev-swc-0c683b5:
+  subresourcename: privatelinkservice
+  resource_id: /subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-dev-swc/providers/Microsoft.Network/privateLinkServices/pl-sumo-dev-swc
+pe-pl-sumo-preview-swc-461f685:
+  subresourcename: privatelinkservice
+  resource_id: /subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-preview-swc/providers/Microsoft.Network/privateLinkServices/pl-sumo-preview-swc
+pe-pl-sumo-prod-swc-55000ea:
+  subresourcename: privatelinkservice
+  resource_id: /subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-prod-swc/providers/Microsoft.Network/privateLinkServices/pl-sumo-prod-swc
+pe-pl-sumo-test-swc-b5d40cc:
+  subresourcename: privatelinkservice
+  resource_id: /subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-test-swc/providers/Microsoft.Network/privateLinkServices/pl-sumo-test-swc
+pe-planttracker-blob-dev:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGDev/providers/Microsoft.Storage/storageAccounts/planttrackerdevsa"
+pe-planttracker-blob-prod:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGProd/providers/Microsoft.Storage/storageAccounts/planttrackerprodsa"
+pe-planttracker-blob-test:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGTest/providers/Microsoft.Storage/storageAccounts/planttrackertestsa"
+pe-planttracker-cosmosdb-dev:
+  subresourcename: "Sql"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGDev/providers/Microsoft.DocumentDB/databaseAccounts/planttracker-cosdb-dev"
+pe-planttracker-cosmosdb-prod:
+  subresourcename: "Sql"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGProd/providers/Microsoft.DocumentDB/databaseAccounts/planttracker-cosdb-prod"
+  customdnszone: "privatelink.radix.equinor.com"
+  customname: "pe-planttracker-cosmosdb-prod"
+pe-planttracker-cosmosdb-test:
+  subresourcename: "Sql"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGTest/providers/Microsoft.DocumentDB/databaseAccounts/planttracker-cosdb-test"
+  customdnszone: "privatelink.radix.equinor.com"
+  customname: "pe-planttracker-cosmosdb-test"
+pe-planttracker-sql-prod:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGProd/providers/Microsoft.Sql/servers/planttracker-db-prod"
+  customdnszone: "privatelink.radix.equinor.com"
+  customname: "pe-planttracker-sql-prod"
+pe-planttracker-sql-test:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/4ccc9bd2-e0c4-4ec2-9a77-9ac8d6c2d608/resourceGroups/PlantTrackerRGTest/providers/Microsoft.Sql/servers/planttracker-db-test"
+  customdnszone: "privatelink.radix.equinor.com"
+  customname: "pe-planttracker-sql-test"
+pe-poc-mediawiki-blob-prod:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/98e56cb1-5449-42dd-8d76-14c6c9b96f57/resourcegroups/bkami-poc/providers/microsoft.storage/storageaccounts/enterprisewikisa"
+pe-poc-mediawiki-database-prod:
+  subresourcename: "mysqlServer"
+  resource_id: "/subscriptions/98e56cb1-5449-42dd-8d76-14c6c9b96f57/resourceGroups/BKAMI-POC/providers/Microsoft.DBforMySQL/flexibleServers/barisdbne"
+pe-poc-mediawiki-es-vm-prod:
+  subresourcename: "privatelinkservice"
+  resource_id: "/subscriptions/98e56cb1-5449-42dd-8d76-14c6c9b96f57/resourceGroups/BKAMI-ES/providers/Microsoft.Network/privateLinkServices/mwesinpl"
+pe-psql-lpad-app-dev-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-lpad-app-dev-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-lpad-app-dev-eun-01"
+pe-psql-lpad-app-prod-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/e39174ad-ec69-4c60-9217-966104fba51a/resourceGroups/rg-lpad-app-prod-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-lpad-app-prod-eun-01"
+pe-psql-lpad-app-test-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-lpad-app-test-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-lpad-app-test-eun-01"
+pe-psql-s209nlpdevpsql01-platform:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/f63116e3-4460-4b18-9e64-5a58ce7cf837/resourceGroups/S209-NE-NLP-DEV/providers/Microsoft.DBforPostgreSQL/flexibleServers/s209nlpdevpsql01"
+pe-psql-s209nlpprdpsql01-platform:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/f63116e3-4460-4b18-9e64-5a58ce7cf837/resourceGroups/S209-NE-NLP-PRD/providers/Microsoft.DBforPostgreSQL/flexibleServers/s209nlpprdpsql01"
+pe-psql-s209nlpstgpsql01-platform:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/f63116e3-4460-4b18-9e64-5a58ce7cf837/resourceGroups/S209-NE-NLP-STG/providers/Microsoft.DBforPostgreSQL/flexibleServers/s209nlpstgpsql01"
+pe-psql-s209nlptstpsql01-platform:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/f63116e3-4460-4b18-9e64-5a58ce7cf837/resourceGroups/S209-NE-NLP-TST/providers/Microsoft.DBforPostgreSQL/flexibleServers/s209nlptstpsql01"
+pe-psql-slots-dev-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-slots-dev-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-slots-dev-eun-01"
+pe-psql-slots-prod-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/e39174ad-ec69-4c60-9217-966104fba51a/resourceGroups/rg-slots-prod-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-slots-prod-eun-01"
+pe-psql-slots-test-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-slots-test-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-slots-test-eun-01"
+pe-psql-winc-dev-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-winc-dev-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-winc-dev-eun-01"
+pe-psql-winc-prod-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/e39174ad-ec69-4c60-9217-966104fba51a/resourceGroups/rg-winc-prod-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-winc-prod-eun-01"
+pe-psql-winc-test-eun-01:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-winc-test-eun/providers/Microsoft.DBforPostgreSQL/flexibleServers/psql-winc-test-eun-01"
+pe-pss-auth-dev-45c0d10:
+  subresourcename: redisCache
+  resource_id: /subscriptions/54898823-2729-4373-aebf-6e66ebc050a7/resourceGroups/PSSCloud_Dev/providers/Microsoft.Cache/redis/pss-auth-dev
+pe-radixblobtest6-2b878f4:
+  subresourcename: dfs
+  resource_id: /subscriptions/16ede44b-1f74-40a5-b428-46cca9a5741b/resourceGroups/test-resources/providers/Microsoft.Storage/storageAccounts/radixblobtest6
+pe-radixblobtest6-960d980:
+  subresourcename: blob
+  resource_id: /subscriptions/16ede44b-1f74-40a5-b428-46cca9a5741b/resourceGroups/test-resources/providers/Microsoft.Storage/storageAccounts/radixblobtest6
+pe-radixcanary-ee06e22:
+  subresourcename: registry
+  resource_id: /subscriptions/16ede44b-1f74-40a5-b428-46cca9a5741b/resourceGroups/common/providers/Microsoft.ContainerRegistry/registries/radixcanary
+pe-real-configuration-api-blob-prod:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/859dd72e-30f5-4064-bacd-3eb7c0095463/resourceGroups/real-analytics-common/providers/Microsoft.Storage/storageAccounts/realanalyticsstorage"
+pe-real-configuration-api-sqlserver:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/859dd72e-30f5-4064-bacd-3eb7c0095463/resourceGroups/real-db-common/providers/Microsoft.Sql/servers/real-db-common-server"
+pe-s134docviewerstoragedev-82796ef:
+  subresourcename: table
+  resource_id: /subscriptions/5740b247-dc2c-4537-aebb-02b93d88b8e9/resourceGroups/S134-NE-DocumentViewer-Dev/providers/Microsoft.Storage/storageAccounts/s134docviewerstoragedev
+pe-s134docviewerstoragedev-cc81417:
+  subresourcename: blob
+  resource_id: /subscriptions/5740b247-dc2c-4537-aebb-02b93d88b8e9/resourceGroups/S134-NE-DocumentViewer-Dev/providers/Microsoft.Storage/storageAccounts/s134docviewerstoragedev
+pe-s134docviewerstorageprod-39d7e66:
+  subresourcename: table
+  resource_id: /subscriptions/5740b247-dc2c-4537-aebb-02b93d88b8e9/resourceGroups/S134-NE-DocumentViewer-Prod/providers/Microsoft.Storage/storageAccounts/s134docviewerstorageprod
+pe-s134docviewerstorageprod-7c9812e:
+  subresourcename: blob
+  resource_id: /subscriptions/5740b247-dc2c-4537-aebb-02b93d88b8e9/resourceGroups/S134-NE-DocumentViewer-Prod/providers/Microsoft.Storage/storageAccounts/s134docviewerstorageprod
+pe-s227fadd01d-3aad1be:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/98775232-d6d2-45a2-a71e-48aedb68a29e/resourceGroups/S227-NOE-FAD-DEV/providers/Microsoft.Sql/servers/s227fadd01d
+pe-s499-ms-dwh-azuresql-prod-b355672:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/5a0bb1d0-a00b-40d4-9fc4-4f0e3fd71c4e/resourceGroups/S499-MS-DWH-PROD/providers/Microsoft.Sql/servers/s499-ms-dwh-azuresql-prod
+pe-s540-sapo-beta-kv-3054bbe:
+  subresourcename: vault
+  resource_id: /subscriptions/03ca5328-3224-4574-b3dc-f4ffb89d2557/resourceGroups/S540-SAPo-beta/providers/Microsoft.KeyVault/vaults/s540-sapo-beta-kv
+pe-s540-sapo-beta-redis-cdcb30b:
+  subresourcename: redisCache
+  resource_id: /subscriptions/03ca5328-3224-4574-b3dc-f4ffb89d2557/resourceGroups/S540-SAPo-beta/providers/Microsoft.Cache/redis/s540-sapo-beta-redis
+pe-s540-sapo-beta-sql-a691d85:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/03ca5328-3224-4574-b3dc-f4ffb89d2557/resourceGroups/S540-SAPo-beta/providers/Microsoft.Sql/servers/s540-sapo-beta-sql
+pe-s540-sapo-dev-redis-d4bf1a9:
+  subresourcename: redisCache
+  resource_id: /subscriptions/03ca5328-3224-4574-b3dc-f4ffb89d2557/resourceGroups/S540-SAPo-dev/providers/Microsoft.Cache/redis/s540-sapo-dev-redis
+pe-s540-sapo-dev-sql-30ae64b:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/03ca5328-3224-4574-b3dc-f4ffb89d2557/resourceGroups/S540-SAPo-dev/providers/Microsoft.Sql/servers/s540-sapo-dev-sql
+pe-s564cdfprdpsql01-41df22f:
+  subresourcename: postgresqlServer
+  resource_id: /subscriptions/b8ce4991-c331-4808-9e6c-4b1fa8e8dbde/resourceGroups/S564-NE-CDF-PRD/providers/Microsoft.DBforPostgreSQL/flexibleServers/s564cdfprdpsql01
+pe-spts-app-sqlserver-dev:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/5d5ce3d7-f69e-4f31-9851-5e4e0ad2403c/resourceGroups/rg-spts-dev/providers/Microsoft.Sql/servers/sql-spts-dev"
+pe-spts-app-sqlserver-prod:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/5d5ce3d7-f69e-4f31-9851-5e4e0ad2403c/resourceGroups/rg-spts-prod/providers/Microsoft.Sql/servers/sqlserver-spts-prod"
+pe-spts-app-sqlserver-qa:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/5d5ce3d7-f69e-4f31-9851-5e4e0ad2403c/resourceGroups/rg-spts-qa/providers/Microsoft.Sql/servers/sqlserver-spts-qa"
+pe-sql-lpllm-main-dev-eun-2741c76:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-lpllm-main-dev-eun/providers/Microsoft.Sql/servers/sql-lpllm-main-dev-eun
+pe-stechocadmodelsdev-31ec57b:
+  subresourcename: blob
+  resource_id: /subscriptions/f9892073-3b09-40b7-8f33-1e0320e683c8/resourceGroups/rg-echocadservice-dev/providers/Microsoft.Storage/storageAccounts/stechocadmodelsdev
+pe-stechocadmodelsdev-6c6108b:
+  subresourcename: table
+  resource_id: /subscriptions/f9892073-3b09-40b7-8f33-1e0320e683c8/resourceGroups/rg-echocadservice-dev/providers/Microsoft.Storage/storageAccounts/stechocadmodelsdev
+pe-stechocadmodelsprod:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/f9892073-3b09-40b7-8f33-1e0320e683c8/resourceGroups/rg-echocadservice-prod/providers/Microsoft.Storage/storageAccounts/stechocadmodelsprod"
+pe-stlpllmmaindeveun-971ed0f:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/df76dfda-00f2-4a57-802a-3d46271b4bba/resourceGroups/rg-lpllm-main-dev-eun/providers/Microsoft.Storage/storageAccounts/stlpllmmaindeveun"
+pe-sumo-privatelinkservice-dev:
+  subresourcename: "privatelinkservice"
+  resource_id: "/subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-dev/providers/Microsoft.Network/privateLinkServices/pl-sumo-dev"
+  customname: "pe-sumo-privatelinkservice-dev"
+pe-sumo-privatelinkservice-preview:
+  subresourcename: "privatelinkservice"
+  resource_id: "/subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-preview/providers/Microsoft.Network/privateLinkServices/pl-sumo-preview"
+  customname: "pe-sumo-privatelinkservice-preview"
+pe-sumo-privatelinkservice-prod:
+  subresourcename: "privatelinkservice"
+  resource_id: "/subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-prod/providers/Microsoft.Network/privateLinkServices/pl-sumo-prod"
+  customname: "pe-sumo-privatelinkservice-prod"
+pe-sumo-privatelinkservice-test:
+  subresourcename: "privatelinkservice"
+  resource_id: "/subscriptions/87897772-fb27-495f-ae40-486a2df57baa/resourceGroups/rg-sumo-es-test/providers/Microsoft.Network/privateLinkServices/pl-sumo-test"
+  customname: "pe-sumo-privatelinkservice-test"
+pe-table-stechocadmodelsprod:
+  subresourcename: "table"
+  resource_id: "/subscriptions/f9892073-3b09-40b7-8f33-1e0320e683c8/resourceGroups/rg-echocadservice-prod/providers/Microsoft.Storage/storageAccounts/stechocadmodelsprod"
+pe-tops-scheduling-blob-prod:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/8ab53ebc-8c5e-43aa-9d4f-426110825a82/resourceGroups/S379-tops-scheduling-prod/providers/Microsoft.Storage/storageAccounts/s379topsschedulingsaprod"
+pe-tops-scheduling-blob-qa:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/c686db39-25f6-4ee4-a7df-5dd1a4dac9ea/resourceGroups/S380-tops-scheduling-qa/providers/Microsoft.Storage/storageAccounts/s380topsschedulingsaqa"
+pe-tops-scheduling-kv-dev:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/c686db39-25f6-4ee4-a7df-5dd1a4dac9ea/resourceGroups/S380-tops-scheduling-dev/providers/Microsoft.KeyVault/vaults/S380-scheduling-kv-dev"
+pe-tops-scheduling-kv-prod:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/8ab53ebc-8c5e-43aa-9d4f-426110825a82/resourceGroups/S379-tops-scheduling-prod/providers/Microsoft.KeyVault/vaults/S379-scheduling-kv-prod"
+pe-tops-scheduling-kv-qa:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/c686db39-25f6-4ee4-a7df-5dd1a4dac9ea/resourceGroups/S380-tops-scheduling-qa/providers/Microsoft.KeyVault/vaults/S380-scheduling-kv-qa"
+pe-tops-scheduling-sql-dev:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/c686db39-25f6-4ee4-a7df-5dd1a4dac9ea/resourceGroups/S380-tops-scheduling-dev/providers/Microsoft.Sql/servers/s380-tops-scheduling-sqlserver-dev"
+pe-tops-scheduling-sql-prod:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/8ab53ebc-8c5e-43aa-9d4f-426110825a82/resourceGroups/S379-tops-scheduling-prod/providers/Microsoft.Sql/servers/s379-tops-scheduling-sqlserver-prod"
+pe-tops-scheduling-sql-qa:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/c686db39-25f6-4ee4-a7df-5dd1a4dac9ea/resourceGroups/S380-tops-scheduling-qa/providers/Microsoft.Sql/servers/s380-tops-scheduling-sqlserver-qa"
+pe-trayport-app-conf-dev:
+  subresourcename: "configurationStores"
+  resource_id: "/subscriptions/9586a504-d1c8-4d4b-8fbe-a6ba4b6eab20/resourceGroups/eqnr-trayport-dev-app-rg/providers/Microsoft.AppConfiguration/configurationStores/eqnr-trayport-dev-config"
+pe-trayport-app-conf-prod:
+  subresourcename: "configurationStores"
+  resource_id: "/subscriptions/5c210a8c-68ca-4ab3-8b90-73c062701394/resourceGroups/eqnr-trayport-prod-app-rg/providers/Microsoft.AppConfiguration/configurationStores/eqnr-trayport-prod-config"
+pe-trayport-app-conf-test:
+  subresourcename: "configurationStores"
+  resource_id: "/subscriptions/9586a504-d1c8-4d4b-8fbe-a6ba4b6eab20/resourceGroups/eqnr-trayport-test-app-rg/providers/Microsoft.AppConfiguration/configurationStores/eqnr-trayport-test-config"
+pe-trayport-vault-dev:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/9586a504-d1c8-4d4b-8fbe-a6ba4b6eab20/resourceGroups/eqnr-trayport-dev-app-rg/providers/Microsoft.KeyVault/vaults/eqnr-trayport-dev-kv"
+pe-trayport-vault-prod:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/5c210a8c-68ca-4ab3-8b90-73c062701394/resourceGroups/eqnr-trayport-prod-app-rg/providers/Microsoft.KeyVault/vaults/eqnr-trayport-prod-kv"
+pe-sharedadxfotonedev-e8510b8:
+  subresourcename: cluster
+  resource_id: /subscriptions/628264c6-68f0-4326-b93a-07ce5224f135/resourceGroups/rg-fotone-dev/providers/Microsoft.Kusto/clusters/sharedadxfotonedev
+pe-trayport-vault-test:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/9586a504-d1c8-4d4b-8fbe-a6ba4b6eab20/resourceGroups/eqnr-trayport-test-app-rg/providers/Microsoft.KeyVault/vaults/eqnr-trayport-test-kv"
+pe-wellcom-msa-dwe-dev-postgresql:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/DWE-DEV/providers/Microsoft.DBforPostgreSQL/flexibleServers/wellcom-msa-dwe-dev"
+pe-wellcom-msa-dwe-prod-postgresql:
+  subresourcename: "postgresqlServer"
+  resource_id: "/subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/DWE-PROD/providers/Microsoft.DBforPostgreSQL/flexibleServers/wellcom-msa-dwe-prod"
+pe-wellcom-msa-keyvault:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/d86ec129-e76d-41b1-a272-570e56109118/resourceGroups/WELLCOM-MSA-INFRASTRUCTURE/providers/Microsoft.KeyVault/vaults/wellcom-msa-keyvault"
+pe-woprep-dev:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-dev/providers/Microsoft.Sql/servers/woprep-dev"
+pe-woprep-prod-5081781:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-prod/providers/Microsoft.Sql/servers/woprep-prod
+pe-woprep-prod-a0830a2:
+  subresourcename: vault
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-prod/providers/Microsoft.KeyVault/vaults/woprep-prod
+pe-woprep-test-1540feb:
+  subresourcename: vault
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-test/providers/Microsoft.KeyVault/vaults/woprep-test
+pe-woprep-test-3c602f1:
+  subresourcename: sqlServer
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-test/providers/Microsoft.Sql/servers/woprep-test
+pe-woprep-vault-dev:
+  subresourcename: "vault"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-dev/providers/Microsoft.KeyVault/vaults/woprep-dev"
+pe-woprepdev:
+  subresourcename: "blob"
+  resource_id: "/subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-dev/providers/Microsoft.Storage/storageAccounts/woprepdev"
+pe-woprepprod-5d61140:
+  subresourcename: blob
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-prod/providers/Microsoft.Storage/storageAccounts/woprepprod
+pe-wopreptest-4c2eb2d:
+  subresourcename: blob
+  resource_id: /subscriptions/bf9cad7b-b2e7-47f2-8c76-0e4602c7585c/resourceGroups/woprep-test/providers/Microsoft.Storage/storageAccounts/wopreptest
+pe-xlot-interpreter-sqlserver-prod:
+  subresourcename: "sqlServer"
+  resource_id: "/subscriptions/a010868e-e742-44f5-9032-7c16a36e2072/resourceGroups/xlot-interpreter/providers/Microsoft.Sql/servers/xlot-interpreter-db-server"
