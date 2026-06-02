@@ -49,7 +49,6 @@ By focusing on simplicity, scalability, and developer experience, Radix helps te
 
 ### Core Platform
 - [Radix Operator](https://github.com/equinor/radix-operator) — The core Kubernetes operator that manages Radix workloads, deployments, and platform resources
-- [Radix API](https://github.com/equinor/radix-api) — REST API exposing platform capabilities to users, services, and the web console
 - [Radix Web Console](https://github.com/equinor/radix-web-console) — Web-based GUI for creating, managing, and monitoring Radix applications
 - [Radix CLI](https://github.com/equinor/radix-cli) — Command-line interface for interacting with the Radix platform
 - [Radix Platform](https://github.com/equinor/radix-platform) — Base infrastructure scripts, Terraform/HCL configs, and platform setup
