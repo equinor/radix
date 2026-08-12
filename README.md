@@ -48,7 +48,7 @@ By focusing on simplicity, scalability, and developer experience, Radix helps te
 ## 📦 Repository Index
 
 ### Core Platform
-- [Radix Operator](https://github.com/equinor/radix-operator) — The core components (operator, webhook, api) that manages Radix workloads, deployments, and platform resources
+- [Radix Operator](https://github.com/equinor/radix-operator) — The core components (operator, webhook, API) that manage Radix workloads, deployments, and platform resources
 - [Radix Web Console](https://github.com/equinor/radix-web-console) — Web-based GUI for creating, managing, and monitoring Radix applications
 - [Radix CLI](https://github.com/equinor/radix-cli) — Command-line interface for interacting with the Radix platform
 - [Radix Platform](https://github.com/equinor/radix-platform) — Base infrastructure scripts, Terraform/HCL configs, and platform setup
