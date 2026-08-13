@@ -48,7 +48,7 @@ By focusing on simplicity, scalability, and developer experience, Radix helps te
 ## 📦 Repository Index
 
 ### Core Platform
-- [Radix Operator](https://github.com/equinor/radix-operator) — The core Kubernetes operator that manages Radix workloads, deployments, and platform resources
+- [Radix Operator](https://github.com/equinor/radix-operator) — The core components (operator, webhook, API) that manage Radix workloads, deployments, and platform resources
 - [Radix Web Console](https://github.com/equinor/radix-web-console) — Web-based GUI for creating, managing, and monitoring Radix applications
 - [Radix CLI](https://github.com/equinor/radix-cli) — Command-line interface for interacting with the Radix platform
 - [Radix Platform](https://github.com/equinor/radix-platform) — Base infrastructure scripts, Terraform/HCL configs, and platform setup
@@ -56,18 +56,14 @@ By focusing on simplicity, scalability, and developer experience, Radix helps te
 - [Radix Log API](https://github.com/equinor/radix-log-api) — API for accessing historical logs for Radix applications
 
 ### CI/CD
-- [Radix Image Builder](https://github.com/equinor/radix-image-builder) — Container image builder for Radix application pipelines
 - [Radix BuildKit Builder](https://github.com/equinor/radix-buildkit-builder) — BuildKit-based image builder for improved build performance
-- [Radix GitHub Webhook](https://github.com/equinor/radix-github-webhook) — Webhook handler that triggers Radix pipelines from GitHub push events
 
 ### Security
-- [Radix OAuth Guard](https://github.com/equinor/radix-oauth-guard) — Forward auth service to validate, authenticate, and authorize JWT tokens
 - [Radix Vulnerability Scanner](https://github.com/equinor/radix-vulnerability-scanner) — Scans container images in RadixDeployments for security vulnerabilities
 - [Radix Vulnerability Scanner API](https://github.com/equinor/radix-vulnerability-scanner-api) — API for querying and serving vulnerability scan results
 
 ### Infrastructure & Operations
 - [Radix Flux](https://github.com/equinor/radix-flux) — GitOps configuration for Radix clusters using Flux CD
-- [Radix Ingress Default Backend](https://github.com/equinor/radix-ingress-default-backend) — Default backend for ingress-nginx in Radix clusters
 - [Radix NetworkPolicy Canary](https://github.com/equinor/radix-networkpolicy-canary) — Canary service for verifying network policy enforcement
 - [Radix CI/CD Canary](https://github.com/equinor/radix-cicd-canary) — Automated end-to-end testing of the Radix platform inside clusters
 - [Radix Prometheus Proxy](https://github.com/equinor/radix-prometheus-proxy) — Exports selected Prometheus query results for monitoring
